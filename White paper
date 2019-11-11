@@ -1,1 +1,25 @@
 PoL Token - an slp token for proof of loyalty to be used as a "token of appreciation" for friends that show loyalty
+
+Telegram Bot intended features:
+
+Tip using emoji:
+
+U+1F37B (cheers beer mugs)
+U+1F942 (cheers champaign)
+U+1F52A (knife)
+
+Status per player:
+
+stop sign = 0 > clown = 1 > middle finger = 2 > heart = 3 > trophy = 4 > champaign bottle pop = 5
+
+Recirculation to faucet:
+
+using knife emoji a player can take away from a score of another player using knife emoji. However, take away power is only able to be used in 24 hours 3x before it resets again and rather then the knife user accepting the token, it recirculates to the faucet in bot. 
+
+Faucet:
+
+Possible idea: once it builds to X number it offers reward for the first 3 users who accept the tip via claim. 
+
+1st place = 70% of pot total
+2nd place = 20% of pot total
+3rd place = 10% of pot total
